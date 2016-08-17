@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 
+  item_category_id: 
+  name: MyString
+  delivery_fee: 1.5
+  price: 1.5
+  country: MyString
+  city: MyString
+  description: MyText
+
+two:
+  user_id: 
+  item_category_id: 
+  name: MyString
+  delivery_fee: 1.5
+  price: 1.5
+  country: MyString
+  city: MyString
+  description: MyText

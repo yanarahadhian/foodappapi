@@ -1,0 +1,6 @@
+<h1>Please select API version:</h1>
+<ul>
+  <% @available_version.each do |version| %>
+    <li><%= link_to 'API ' + version, grape_swagger_rails_path(version) %></li>
+  <% end %>
+</ul>

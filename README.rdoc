@@ -1,0 +1,10 @@
+== JoeyFood API
+
+
+Project details:
+
+* <b>Ruby version</b> 2.2.2
+
+* <b>Rails version</b> 4.2.3
+
+* <b>Database adapter</b> MySQL
